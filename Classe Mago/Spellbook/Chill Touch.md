@@ -1,0 +1,5 @@
+You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell [Attack](https://roll20.net/compendium/dnd5e/Combat#h-Attack) against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain [Hit Points](https://roll20.net/compendium/dnd5e/Monsters#h-Hit%20Points) until the start of your next turn. Until then, the hand clings to the target.  
+  
+If you hit an [Undead](https://roll20.net/compendium/dnd5e/Creatures%20By%20Type#h-Undead) target, it also has disadvantage on [Attack](https://roll20.net/compendium/dnd5e/Combat#h-Attack) rolls against you until the end of your next turn.  
+  
+This spell's damage increases by 1d8 when you reach [5th Level](https://roll20.net/compendium/dnd5e/Artificer%20Spell%20List#h-5th%20Level) (2d8), 11th level (3d8), and 17th level (4d8).

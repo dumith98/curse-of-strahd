@@ -1,0 +1,1 @@
+As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.

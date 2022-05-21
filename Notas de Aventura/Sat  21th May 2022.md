@@ -12,10 +12,11 @@ Ele encontra um tronco com cordas amarradas de onde ouvi choros e sente uma ener
 
 
 ### Personagens Encontrado:
+- Espectro da [[Melina]] foi encontrado em um tronco de madeira perto das estruturas de pedra.
 
 ### Personagens Mortos:
 
-[Ashiok](Ashiok.md) não resistiu aos seus ferimentos causados pelo glifo do baú.
+- [Ashiok](Ashiok.md) não resistiu aos seus ferimentos causados pelo glifo  do baú.
 
 
 ## Itens encontrados ou adiquiridos

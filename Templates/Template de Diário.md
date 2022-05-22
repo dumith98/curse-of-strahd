@@ -1,4 +1,4 @@
-Sessão do dia {{date}}
+{{date}}
 
 ## Resumo da sessão
 ---

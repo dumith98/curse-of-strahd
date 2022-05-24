@@ -5,15 +5,15 @@
 ---
 ![|720](https://pbs.twimg.com/media/Dc8tu_dU8AYZeX_?format=jpg&name=medium)
 
-*HP MAX*:    *ATUAL*:    *TEMP*: 
-*CA*:16    *Init*: 3.16   *Veloc*.:
+*HP MAX*: 62   *ATUAL*: 62   *TEMP*: 
+*CA*:16    *Init*: 3.16   *Veloc*.: 30ft (9m)
 #### *DADOS DE VIDA*:  7/7 D8
 ---
 |**ATRIBUTOS**|**VALOR**|**BÔNUS**|**SALVA GUARDA**|
 |:----------:|:-----------:|:-----:|:---:|
 |Força| *12* | *1* | *1* |
-|Carisma| *20* | *5* | *8* |
-|Destreza| *16* | *3* | *6* |
+|*Carisma*| *20* | *5* | *8* |
+|*Destreza*| *16* | *3* | *6* |
 |Constituição| *16* | *3*| *3* |
 |Inteligência| *13* | *1* | *1* |
 |Wisdom| *10* | *0* | *3* |
@@ -51,7 +51,10 @@
 ## Características gerais 
 - [[Visão no escurio]]
 - [[Ancestral Feérico]]
-- 
+- Proficiencias
+	Armaduras: Armaduras leves, Armaduras médias
+	Armas: Armas simples, bestas de mão, espadas longas, rapieiras, espadas curtas  
+	Ferramentas: Alaúde (ou lute), Flauta, *a decidir*, kit de desfarce
 ---
 ## Características de classe
 
@@ -71,8 +74,11 @@
 - [[Invocações Místicas]]
 	- [[Explosão Agonizante]]
 	- [[Mente arcana]]
+	- [[Visão Diabólica]]
 - [[Dádiva do Pacto]]
 	- [[Pacto da Lâmina]]
+- [[Maldição da Lâmina Maldita]]
+- [[Guerreiro Maldito]]
 ***
 ## Spells              DC: *15*     Atk.Mod: *7*         ***Inspirations*** 5/5
 ---
@@ -114,10 +120,16 @@ Level 4      **Slots**:0      **Remanining**:0
 
 
 
-### Inventário
+### Inventário      **PC**:    **PP**:  **PE**:  **PO**:55   **PP**:
 ***
 * Roupas pomposas
-* Alaúde
-* Kit de desfarçe
-* 15 po`
+* Alaúde ou lute
 * Peitoral (armadura média)
+* Pacote de Artista 
+	* Uma mochila, 
+	* Um saco de dormir
+	* Duas fantasias 
+	* 5 velas
+	* 5 dias de rações
+	* Um cantil 
+	* Um kit de disfarce.

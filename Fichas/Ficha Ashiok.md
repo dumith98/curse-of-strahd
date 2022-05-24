@@ -66,7 +66,7 @@
 Cantrip
 ***
 - [ ] [Chill Touch](Chill%20Touch.md)
-- [ ] [Toll The Dead](Toll%20The%20Dead.md)
+- [ ] [Toll the Dead](Toll%20the%20Dead.md)
 - [ ] [Frostbite](Frostbite.md)
 - [ ] [Gust](Gust.md)
 

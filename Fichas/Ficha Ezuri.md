@@ -74,7 +74,7 @@
 - [[Dádiva do Pacto]]
 	- [[Pacto da Lâmina]]
 ***
-## Spells              DC: *15*     Atk.Mod: *7*
+## Spells              DC: *15*     Atk.Mod: *7*         ***Inspirations*** 5/5
 ---
 ### **Bruxo** Nivel: 2  Slots: 2
 

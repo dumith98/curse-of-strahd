@@ -1,12 +1,21 @@
-# Quem é Ezuri de Kaladesh
+# Quem é Ezuri Lambert?
+***
+Um bardo por hobby e bruxo por acidente, Ezuri Lambert é uma figura um única.
+Um meio-elfo que sempre se apresenta como Ezuri de Kaladesh porque mal lembra seu nome por inteiro, muito menos se veio mesmo de Kaladesh, ou se esse é mesmo o nome.  
 
-Um bardo por hobby e bruxo por acidente, Ezuri Lambert é uma figura um única. Um  meio-elfo que sempre se apresenta como Ezuri de Kaladesh.
-Isso porque mal lembra seu nome por inteiro, muito menos se veio mesmo de Kaladesh ou se esse é o nome de sua cidade natal de verdade. De tempos pra ca, sua sandade não é das melhores.  
-
-Animado e divertido, mas as vezes frio e brutal, o ser com que fez o contrato como forma de pegadinha tormenta-o de formas que ele não entende, sempre pedindo alguma forma de derramamento de sangue como forma de pagamaento. O ser, cujo nome Ezuri não se lembra mais e fica meio acanhado em perguntar ja que apesar do contato constante ele não sabia e poderia soar mal educado, sempre parece entusiasmado com uma matança indiscriminada. Contando que a sua espada estivesse presente onde sangue fosse derramado, o patrono que, quando aparece *somente* para Ezuri, tem a forma de um elfo alto e esguio, com pele e olhos escuros como a noite e cabelos brancos como a lua, estaria satisfeito.
+Animado e hiperativo, mas as vezes cruel e brutal, Ezuri é atormentado pelo ser com quem fez um pacto de forma acidental, sempre pedindo alguma forma de derramamento de sangue como pagamento.
+O ser, cujo nome Ezuri constantemente esquece, sempre parece entusiasmado com uma matança indiscriminada, fazendo questão que Ezuri esteja relacionado de alguma forma.
 
 
-Gosta de se distrair com as coisas, de compor garranchos que chama de musicas e tentar equilibrar torres de dados enquanto espera a sua vez de jogar, tudo que o impeça de ficar a sós consigo mesmo por muito tempo.  Lembrar do seu passado, ou lembrar que não lembra direito incomoda Ezuri profundamente. Em sua terra natal, agora chamada de Kaladesh por ele, Ezuri falha em lembrar com precisão. Não lembra dos nomes de seus pais, da sua casa ou família, e irritantemente não se lembra do nome do seu irmão, o responável pelo seu estado atual. Lembra-se das planícies verdes, das leves colinas, da pequena cidade que circundava a grande casa em que morava. Lembrava-se de como todos eram felizes... e como tudo era entediante.  
+## Relação com o passado
+***
+Sua memória prejudicada o incomoda bastante. Os anos sendo atormentado pelo seu patrono começaram a afetar a sua sanidade e, consequentemente, as suas lembranças. 
+Quando se da conta de que o seu passado é como um borrão Ezuri fica irritado e até agressivo, por isso ele gosta de se distrair com qualquer coisa , de compor musicas a tentar equilibrar torres de dados enquanto espera a sua vez de jogar.
+
+
+### O que ele (acha) que lembra
+
+Sua terra natal, agora chamada de Kaladesh, é uma disforme em suas memórias com alguns bocados que ele tem certeza que são verdade, porem não lembra dos nomes de seus pais, da sua casa ou família, e irritantemente não se lembra do nome do seu irmão, o responável pelo seu estado atual. Lembra-se das planícies verdes, das leves colinas, da pequena cidade que circundava a grande casa em que morava. Lembrava-se de como todos eram felizes... e como tudo era entediante.  
 
 Nenhuma crise de comida, nenhuma revolta, nenhum dragão a sobrevoar a cidade e ameaçar a vida de todos e a riqueza de sua família como nas canções dos bardos. A cidade era bem governada e próspera, mas nada de mais se comparada ás cidades dos anões ou as grandes capitais. Até tentou a aprender a tocar alaúde para se distrair  quando sozinho, se tornar o foco das atenções nas festas eventuais e, talvéz, se tornar  mais charmoso para as damas. Mas o tédio persistia...
 

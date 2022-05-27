@@ -79,6 +79,7 @@
 	- [[Pacto da Lâmina]]
 - [[Maldição da Lâmina Maldita]]
 - [[Guerreiro Maldito]]
+- [[Eldritch Improvisation]]
 ***
 ## Spells              DC: *15*     Atk.Mod: *7*         ***Inspirations*** 5/5
 ---
